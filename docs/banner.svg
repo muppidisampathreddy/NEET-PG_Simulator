@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1170a7"/>
+      <stop offset="1" stop-color="#304d6f"/>
+    </linearGradient>
+    <clipPath id="badge"><circle cx="190" cy="160" r="104"/></clipPath>
+  </defs>
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <!-- heartbeat line -->
+  <path d="M0 288 H960 l18 -34 l20 60 l22 -120 l20 110 l16 -16 H1280" fill="none" stroke="#ffffff" stroke-opacity=".18" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- doctor -->
+  <circle cx="190" cy="160" r="110" fill="#dff3fc" stroke="#ffffff" stroke-width="6"/>
+  <g clip-path="url(#badge)">
+    <path d="M96 290 Q96 196 190 190 Q284 196 284 290 Z" fill="#ffffff" stroke="#b9d3e2" stroke-width="2"/>
+    <path d="M164 190 L190 232 L216 190 Z" fill="#1170a7"/>
+    <path d="M150 196 Q140 246 176 252" fill="none" stroke="#304d6f" stroke-width="6" stroke-linecap="round"/>
+    <path d="M230 196 Q236 226 214 240" fill="none" stroke="#304d6f" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="180" cy="253" r="10" fill="#304d6f"/>
+    <circle cx="180" cy="253" r="4" fill="#dff3fc"/>
+    <rect x="226" y="222" width="30" height="30" rx="5" fill="#c3300a"/>
+    <path d="M241 228 V246 M232 237 H250" stroke="#ffffff" stroke-width="6" stroke-linecap="round"/>
+  </g>
+  <circle cx="190" cy="124" r="40" fill="#f2c9a5"/>
+  <path d="M150 120 Q150 80 190 80 Q230 80 230 120 Q218 98 190 100 Q162 98 150 120 Z" fill="#3b2a20"/>
+  <circle cx="176" cy="130" r="4" fill="#3b2a20"/>
+  <circle cx="204" cy="130" r="4" fill="#3b2a20"/>
+  <path d="M176 148 Q190 158 204 148" fill="none" stroke="#8a5a3c" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- text -->
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="350" y="138" font-size="56" font-weight="700">NEET-PG Mock Test Simulator</text>
+    <text x="352" y="186" font-size="26" fill="#dff3fc">Get familiar with the exam-day CBT screen before the real exam</text>
+    <g font-size="20" font-weight="600">
+      <rect x="352" y="214" width="96" height="38" rx="19" fill="#6cc81e"/>
+      <text x="400" y="240" text-anchor="middle">Free</text>
+      <rect x="462" y="214" width="156" height="38" rx="19" fill="#ffffff" fill-opacity=".18"/>
+      <text x="540" y="240" text-anchor="middle">Open source</text>
+      <rect x="632" y="214" width="236" height="38" rx="19" fill="#ffffff" fill-opacity=".18"/>
+      <text x="750" y="240" text-anchor="middle">For every aspirant</text>
+    </g>
+  </g>
+</svg>
