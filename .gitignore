@@ -1,0 +1,21 @@
+# Screen recordings
+*.mov
+*.mp4
+
+# Dependencies and builds
+node_modules/
+frontend/dist/
+backend/.venv/
+__pycache__/
+*.pyc
+
+# Local data: your exams, questions and uploaded images
+backend/data.db*
+backend/uploads/
+
+# Secrets, logs, editor and OS files
+.env
+*.log
+.vscode/
+.idea/
+.DS_Store

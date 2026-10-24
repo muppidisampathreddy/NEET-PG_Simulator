@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+<defs>
+<radialGradient id="b" cx="50%" cy="40%" r="65%"><stop offset="0" stop-color="#7d7d7d"/><stop offset="1" stop-color="#2c2c2c"/></radialGradient>
+<linearGradient id="l" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#151515"/><stop offset="1" stop-color="#2a2a2a"/></linearGradient>
+<filter id="s"><feGaussianBlur stdDeviation="2.2"/></filter>
+<filter id="t"><feGaussianBlur stdDeviation="0.7"/></filter>
+<marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0L8 4L0 8Z" fill="#e53935"/></marker>
+</defs>
+<rect width="400" height="300" fill="#040404"/>
+<path d="M72 300 L62 120 Q64 48 125 30 L165 18 L235 18 L275 30 Q336 48 338 120 L328 300 Z" fill="url(#b)" filter="url(#s)"/>
+<g filter="url(#s)">
+<path d="M98 198 Q92 110 118 62 Q150 34 186 52 L188 186 Q140 150 98 198 Z" fill="url(#l)"/>
+<path d="M302 206 Q308 110 282 62 Q250 34 214 52 L212 196 Q258 156 302 206 Z" fill="url(#l)"/>
+<path d="M98 199 Q140 174 188 187 L196 300 L82 300 Z" fill="#9c9c9c"/>
+<path d="M190 112 Q172 150 186 198 Q232 218 276 200 Q290 160 248 126 Q216 106 190 112 Z" fill="#b8b8b8"/>
+<rect x="186" y="18" width="28" height="282" fill="#a9a9a9"/>
+<rect x="196" y="18" width="8" height="78" fill="#2a2a2a"/>
+</g>
+<g fill="#c9c9c9" opacity=".35" filter="url(#t)"><rect x="191" y="24" width="18" height="12" rx="3"/><rect x="191" y="40" width="18" height="12" rx="3"/><rect x="191" y="56" width="18" height="12" rx="3"/><rect x="191" y="72" width="18" height="12" rx="3"/><rect x="191" y="88" width="18" height="12" rx="3"/><rect x="191" y="104" width="18" height="12" rx="3"/><rect x="191" y="120" width="18" height="12" rx="3"/><rect x="191" y="136" width="18" height="12" rx="3"/><rect x="191" y="152" width="18" height="12" rx="3"/><rect x="191" y="168" width="18" height="12" rx="3"/><rect x="191" y="184" width="18" height="12" rx="3"/><rect x="191" y="200" width="18" height="12" rx="3"/><rect x="191" y="216" width="18" height="12" rx="3"/><rect x="191" y="232" width="18" height="12" rx="3"/><rect x="191" y="248" width="18" height="12" rx="3"/><rect x="191" y="264" width="18" height="12" rx="3"/><rect x="191" y="280" width="18" height="12" rx="3"/><rect x="191" y="296" width="18" height="12" rx="3"/></g>
+<g fill="none" stroke="#d6d6d6" stroke-width="4" opacity=".5" stroke-linecap="round" filter="url(#t)"><path d="M196 58 Q130 40 100 84"/><path d="M204 58 Q270 40 300 84"/><path d="M196 75 Q130 57 100 101"/><path d="M204 75 Q270 57 300 101"/><path d="M196 92 Q130 74 100 118"/><path d="M204 92 Q270 74 300 118"/><path d="M196 109 Q130 91 100 135"/><path d="M204 109 Q270 91 300 135"/><path d="M196 126 Q130 108 100 152"/><path d="M204 126 Q270 108 300 152"/><path d="M196 143 Q130 125 100 169"/><path d="M204 143 Q270 125 300 169"/><path d="M196 160 Q130 142 100 186"/><path d="M204 160 Q270 142 300 186"/></g>
+<g fill="none" stroke="#e2e2e2" stroke-width="5" stroke-linecap="round" opacity=".75" filter="url(#t)"><path d="M198 50 Q150 34 108 42"/><path d="M202 50 Q250 34 292 42"/></g>
+<path d="M99 198 Q140 150 188 186 Q140 174 99 198 Z" fill="#000" filter="url(#t)"/>
+<path d="M99 197 Q140 149 188 185" fill="none" stroke="#e0e0e0" stroke-width="1.6" opacity=".8" filter="url(#t)"/>
+<path d="M212 196 Q258 156 302 206" fill="none" stroke="#bdbdbd" stroke-width="1.6" opacity=".6" filter="url(#t)"/>
+<line x1="58" y1="252" x2="128" y2="184" stroke="#e53935" stroke-width="3" marker-end="url(#a)"/>
+<text x="14" y="28" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="bold">R</text>
+<text x="386" y="290" fill="#ccc" font-family="Arial,sans-serif" font-size="11" text-anchor="end">ERECT PA</text>
+</svg>

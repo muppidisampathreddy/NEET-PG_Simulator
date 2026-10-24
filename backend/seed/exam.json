@@ -1,0 +1,267 @@
+{
+  "title": "NEET-PG 2026 Demo Mock",
+  "sections": 5,
+  "minutes_per_section": 4,
+  "questions": [
+    {
+      "section": 0,
+      "text": "A 32-year-old man is brought to the emergency department after a high-speed road traffic accident. His pulse is 136/min and BP is 76/50 mm Hg despite 1 L of crystalloid and 2 units of O-negative blood. The abdomen is distended and tender. FAST shows free fluid in Morison's pouch and the splenorenal recess. What is the most appropriate next step?",
+      "image": null,
+      "options": [
+        "Contrast-enhanced CT abdomen",
+        "Emergency laparotomy",
+        "Diagnostic peritoneal lavage",
+        "Serial abdominal examination with repeat FAST in 30 minutes"
+      ],
+      "answer": 1,
+      "explanation": "A hemodynamically unstable patient with a positive FAST needs immediate laparotomy. CT is reserved for patients who are stable or respond to resuscitation."
+    },
+    {
+      "section": 0,
+      "text": "A 48-year-old man on long-term NSAIDs for osteoarthritis presents with sudden severe epigastric pain that spread over the whole abdomen. On examination the abdomen is board-like and liver dullness is lost. His erect chest X-ray is shown. What is the most likely diagnosis?",
+      "image": "xray-free-air.svg",
+      "options": [
+        "Acute pancreatitis",
+        "Acute cholecystitis",
+        "Perforated peptic ulcer",
+        "Sigmoid volvulus"
+      ],
+      "answer": 2,
+      "explanation": "A crescent of free gas under the right hemidiaphragm on an erect film means a hollow viscus has perforated. With NSAID use and sudden epigastric pain, a perforated peptic ulcer is the most likely cause."
+    },
+    {
+      "section": 0,
+      "text": "A 7-year-old girl has many brief staring spells each day. EEG shows generalized 3 Hz spike-and-wave discharges, and she has no other seizure types. What is the drug of choice?",
+      "image": null,
+      "options": [
+        "Carbamazepine",
+        "Phenytoin",
+        "Phenobarbitone",
+        "Ethosuximide"
+      ],
+      "answer": 3,
+      "explanation": "Ethosuximide is preferred for pure absence seizures. Carbamazepine and phenytoin can make absence seizures worse."
+    },
+    {
+      "section": 0,
+      "text": "Fracture of the surgical neck of the humerus is most likely to injure which nerve?",
+      "image": null,
+      "options": [
+        "Radial nerve",
+        "Axillary nerve",
+        "Musculocutaneous nerve",
+        "Ulnar nerve"
+      ],
+      "answer": 1,
+      "explanation": "The axillary nerve and the posterior circumflex humeral artery wind around the surgical neck. Injury causes deltoid weakness and loss of sensation over the regimental badge area."
+    },
+    {
+      "section": 1,
+      "text": "Match the tumour markers with the malignancies in which they are most characteristically raised:<table class=\"match\"><thead><tr><th>Column A</th><th>Column B</th></tr></thead><tbody><tr><td>A. Alpha-fetoprotein</td><td>1. Medullary carcinoma thyroid</td></tr><tr><td>B. CA-125</td><td>2. Hepatocellular carcinoma</td></tr><tr><td>C. CA 19-9</td><td>3. Epithelial ovarian cancer</td></tr><tr><td>D. Calcitonin</td><td>4. Pancreatic adenocarcinoma</td></tr></tbody></table>",
+      "image": null,
+      "options": [
+        "A-3, B-2, C-1, D-4",
+        "A-2, B-4, C-3, D-1",
+        "A-2, B-3, C-4, D-1",
+        "A-1, B-3, C-4, D-2"
+      ],
+      "answer": 2,
+      "explanation": "AFP is raised in HCC, CA-125 in epithelial ovarian cancer, CA 19-9 in pancreatic cancer and calcitonin in medullary carcinoma thyroid."
+    },
+    {
+      "section": 1,
+      "text": "Psammoma bodies are characteristically seen in all of the following EXCEPT:",
+      "image": null,
+      "options": [
+        "Papillary carcinoma thyroid",
+        "Serous cystadenocarcinoma ovary",
+        "Meningioma",
+        "Follicular carcinoma thyroid"
+      ],
+      "answer": 3,
+      "explanation": "Psammoma bodies are laminated calcified concretions found in papillary thyroid carcinoma, serous ovarian tumours, meningioma and mesothelioma. They are not a feature of follicular carcinoma."
+    },
+    {
+      "section": 1,
+      "text": "A 58-year-old diabetic smoker has had crushing retrosternal chest pain for 1 hour. His ECG is shown. Which coronary artery is most likely occluded?",
+      "image": "ecg-stemi.svg",
+      "options": [
+        "Right coronary artery",
+        "Left circumflex artery",
+        "Left anterior descending artery",
+        "Posterior descending artery"
+      ],
+      "answer": 2,
+      "explanation": "ST elevation in V1-V4 is an anterior (anteroseptal) wall STEMI, which is usually caused by occlusion of the LAD."
+    },
+    {
+      "section": 1,
+      "text": "Herd immunity does NOT protect susceptible people against which of the following diseases?",
+      "image": null,
+      "options": [
+        "Measles",
+        "Diphtheria",
+        "Poliomyelitis",
+        "Tetanus"
+      ],
+      "answer": 3,
+      "explanation": "Tetanus comes from spores in the environment and does not spread from person to person. Immunizing others therefore gives no indirect protection."
+    },
+    {
+      "section": 2,
+      "text": "A 22-year-old primigravida at 35 weeks has a generalized tonic-clonic seizure. Her BP is 168/112 mm Hg and urine shows 3+ protein. Which drug is most appropriate to prevent further seizures?",
+      "image": null,
+      "options": [
+        "Intravenous diazepam",
+        "Intravenous phenytoin",
+        "Magnesium sulphate",
+        "Intravenous labetalol"
+      ],
+      "answer": 2,
+      "explanation": "Magnesium sulphate (Pritchard or Zuspan regimen) is the anticonvulsant of choice in eclampsia. It is better than diazepam and phenytoin at preventing recurrent seizures."
+    },
+    {
+      "section": 2,
+      "text": "A 62-year-old lifelong strict vegetarian has fatigue, tingling in both feet and reduced vibration sense in the lower limbs. Hb is 8.2 g/dL and MCV is 118 fL. His peripheral smear is shown. Which deficiency is most likely?",
+      "image": "smear-hypersegmented.svg",
+      "options": [
+        "Iron",
+        "Folic acid",
+        "Vitamin B12",
+        "Pyridoxine"
+      ],
+      "answer": 2,
+      "explanation": "A hypersegmented neutrophil (6 lobes) with macro-ovalocytes indicates megaloblastic anaemia. Neurological involvement (subacute combined degeneration) and a vegetarian diet point to B12 rather than folate deficiency."
+    },
+    {
+      "section": 2,
+      "text": "A 6-month-old infant has had low-grade fever, rhinorrhoea, tachypnoea and wheeze for 2 days during the winter months. What is the most common causative organism?",
+      "image": null,
+      "options": [
+        "Adenovirus",
+        "Respiratory syncytial virus",
+        "Parainfluenza virus",
+        "Streptococcus pneumoniae"
+      ],
+      "answer": 1,
+      "explanation": "This is acute bronchiolitis, and RSV is its most common cause, typically in infants under 2 years during winter."
+    },
+    {
+      "section": 2,
+      "text": "A farmer from a hilly district has had high fever, headache and myalgia for 6 days. A painless black eschar is found in the axilla. What is the drug of choice?",
+      "image": null,
+      "options": [
+        "Doxycycline",
+        "Ceftriaxone",
+        "Ciprofloxacin",
+        "Amoxicillin"
+      ],
+      "answer": 0,
+      "explanation": "Fever with an eschar suggests scrub typhus (Orientia tsutsugamushi). Doxycycline is the drug of choice, and azithromycin is used in pregnancy and young children."
+    },
+    {
+      "section": 3,
+      "text": "A 55-year-old woman with known gallstones presents with fever with chills, jaundice and right upper quadrant pain. What is the most likely diagnosis?",
+      "image": null,
+      "options": [
+        "Acute cholecystitis",
+        "Acute cholangitis",
+        "Acute viral hepatitis",
+        "Liver abscess"
+      ],
+      "answer": 1,
+      "explanation": "Fever, jaundice and RUQ pain form Charcot's triad of acute cholangitis. Hypotension and altered sensorium added to these make Reynolds' pentad."
+    },
+    {
+      "section": 3,
+      "text": "A 26-year-old woman has weight loss, heat intolerance, a diffuse goitre, bilateral proptosis and pretibial myxoedema. Which antibody is responsible for her hyperthyroidism?",
+      "image": null,
+      "options": [
+        "Anti-thyroid peroxidase antibody",
+        "TSH receptor stimulating antibody",
+        "Anti-thyroglobulin antibody",
+        "Anti-microsomal antibody"
+      ],
+      "answer": 1,
+      "explanation": "In Graves' disease, TSH receptor-stimulating antibodies (TRAb/TSI) drive excess hormone production. Anti-TPO (anti-microsomal) antibodies are markers of thyroid autoimmunity and do not cause it."
+    },
+    {
+      "section": 3,
+      "text": "Cherry-red post-mortem lividity is characteristic of poisoning with:",
+      "image": null,
+      "options": [
+        "Carbon monoxide",
+        "Hydrogen sulphide",
+        "Sodium nitrite",
+        "Phosphorus"
+      ],
+      "answer": 0,
+      "explanation": "Carboxyhaemoglobin gives a cherry-red colour. H2S gives greenish lividity, nitrites give chocolate-brown (methaemoglobin), and phosphorus gives dark brown or yellowish lividity."
+    },
+    {
+      "section": 3,
+      "text": "A 65-year-old hypertensive man suddenly loses vision painlessly in one eye. Fundoscopy shows a pale, oedematous retina with a cherry-red spot at the macula. What is the most likely diagnosis?",
+      "image": null,
+      "options": [
+        "Central retinal artery occlusion",
+        "Central retinal vein occlusion",
+        "Rhegmatogenous retinal detachment",
+        "Vitreous haemorrhage"
+      ],
+      "answer": 0,
+      "explanation": "In CRAO the retina becomes ischaemic and opaque, and the thin fovea lets the intact choroidal circulation show through as a cherry-red spot."
+    },
+    {
+      "section": 4,
+      "text": "A patient with treatment-resistant schizophrenia is started on clozapine. Which adverse effect makes regular monitoring of the absolute neutrophil count mandatory?",
+      "image": null,
+      "options": [
+        "Sialorrhoea",
+        "Agranulocytosis",
+        "Weight gain",
+        "Seizures"
+      ],
+      "answer": 1,
+      "explanation": "Clozapine can cause potentially fatal agranulocytosis, so the ANC must be monitored regularly, most closely in the first 18 weeks."
+    },
+    {
+      "section": 4,
+      "text": "Wickham's striae are a characteristic feature of:",
+      "image": null,
+      "options": [
+        "Psoriasis",
+        "Pityriasis rosea",
+        "Lichen planus",
+        "Discoid lupus erythematosus"
+      ],
+      "answer": 2,
+      "explanation": "Wickham's striae are fine white lines on the surface of the violaceous, flat-topped, polygonal papules of lichen planus."
+    },
+    {
+      "section": 4,
+      "text": "The most common site of bleeding in anterior epistaxis in children and young adults is:",
+      "image": null,
+      "options": [
+        "Woodruff's plexus",
+        "Little's area",
+        "Inferior turbinate",
+        "Sphenopalatine foramen"
+      ],
+      "answer": 1,
+      "explanation": "Little's area on the anteroinferior nasal septum holds Kiesselbach's plexus, which is the source of most anterior nosebleeds. Woodruff's plexus is a site of posterior epistaxis in older adults."
+    },
+    {
+      "section": 4,
+      "text": "Classic phenylketonuria results from deficiency of which enzyme?",
+      "image": null,
+      "options": [
+        "Tyrosinase",
+        "Homogentisate oxidase",
+        "Phenylalanine hydroxylase",
+        "Dihydropteridine reductase"
+      ],
+      "answer": 2,
+      "explanation": "Classic PKU is caused by phenylalanine hydroxylase deficiency. Dihydropteridine reductase deficiency causes the less common malignant (BH4-deficient) variant."
+    }
+  ]
+}
